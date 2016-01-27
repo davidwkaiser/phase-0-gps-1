@@ -3,4 +3,3 @@
 
 **Coding is fun**
 
-![alt text](GPS1.png)
