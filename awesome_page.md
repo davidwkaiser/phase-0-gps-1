@@ -1,9 +1,6 @@
-
-abc 
-dev boot camp
-=======
 #**GPS 1.1**
 *Having fun so far*
 
-**Coding is fun**
+**Coding is awesome!**
 
+![Alt text](GPS1.png)
