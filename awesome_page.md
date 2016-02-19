@@ -1,6 +1,6 @@
 #**GPS 1.1**
 *Having fun so far*
 
-**Coding is fun**
+**Coding is awesome!**
 
-![alt text](GPS1.png)
+![Alt text](GPS1.png)
